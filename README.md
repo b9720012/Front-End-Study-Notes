@@ -1,2 +1,2 @@
 # Front-End-Study-Notes
-Path of Learning
+About 6 months of Path of Learning on Lidemy.
